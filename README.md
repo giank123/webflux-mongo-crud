@@ -3,6 +3,7 @@
 Creacion de un crud en Mongo Reactivo con webflux
 
 ## Mongo-Reactivo
+- En el application 
 ```bash
 spring.data.mongodb.uri=mongodb://localhost:27017/bootcamp_customer
 ```
