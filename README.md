@@ -10,7 +10,7 @@ spring.data.mongodb.uri=mongodb://localhost:27017/bootcamp_customer
 
 ### Postman
 
-Create: 
+Crear: 
 - http://localhost:8080/customer/create
 ```bash
   {
@@ -40,6 +40,6 @@ Actualizar:
   }
 ```
 
-Delete a record:
+Borrar:
 - http://localhost:8080/customer/delete/{id}
 
